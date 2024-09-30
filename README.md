@@ -4,6 +4,7 @@
 Esse projeto foi realizado como parte do processo seletivo para a empresa CWI Software.
 
 > Passos:
+
 1 - Acessar o site: https://site.getnet.com.br/
 
 2 - No menu "Sou Cliente", clicar em "Central de Ajuda"
