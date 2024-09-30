@@ -1,5 +1,5 @@
 
-# Automação Web - Getnet https://site.getnet.com.br/
+# Automação Web - Getnet
 
 Esse projeto foi realizado como parte do processo seletivo para a empresa CWI Software.
 
