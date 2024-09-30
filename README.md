@@ -22,7 +22,7 @@ para identificar os elementos web (xpath, css, id) e etc.
 
 > IMPORTANTE!
 
-A automação foi implementada com o framework Cypress em Javascript, dado o curto prazo e a maior familiaridade com essa tecnologia em relação à stack principal desejada.
+A automação foi implementada com o framework Cypress com Javascript, dado o curto prazo e a maior familiaridade com essa tecnologia em relação à stack principal desejada.
 
 
 
