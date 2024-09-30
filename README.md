@@ -20,9 +20,9 @@ Preferencialmente desenvolver com linguagem Java, com Selenium, Cucumber.
 Além da automação dos passos descritos acima, serão avaliados itens como design das classes, organização, manutenibilidade do código, orientação a objeto, arquitetura da automação, clean code, seletores utilizados 
 para identificar os elementos web (xpath, css, id) e etc.
 
-> Importante
+> IMPORTANTE!
 
-A estrutura da automação foi realizada utilizando o framework Cypress com Javascript, devido a familiaridade na ferramenta e curto prazo para desenvolver com a stack principal desejada.
+A automação foi implementada com o framework Cypress em Javascript, dado o curto prazo e a maior familiaridade com essa tecnologia em relação à stack principal desejada.
 
 
 
@@ -78,7 +78,7 @@ Após executar os testes, os prints com as evidências de falha estão gravadas 
 
 ## Considerações Finais
 
-O principal desafio foi equilibrar a necessidade de entregar uma solução funcional dentro do prazo com a stack ideal desejada. Optei pelo Cypress com Javascript por ser mais familiar e garantir uma automação eficiente no tempo disponível. Essa escolha me possibilitou uma entrega de qualidade, com testes confiáveis e uma organização clara do código.
+O principal desafio foi equilibrar a necessidade de entregar uma solução funcional dentro do prazo com a stack ideal desejada. Optei pelo Cypress com Javascript por ser mais familiar e garantir uma automação eficiente no tempo disponível. Essa escolha me possibilitou uma entrega de qualidade, com testes confiáveis e uma organização clara do código. Estou muito feliz por conseguir concluir com sucesso o desafio :D
 
 
 
