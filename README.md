@@ -78,6 +78,7 @@ Após executar os testes, os prints com as evidências de falha estão gravadas 
 
 ## Considerações Finais
 
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
+O principal desafio foi equilibrar a necessidade de entregar uma solução funcional dentro do prazo com a stack ideal desejada. Optei pelo Cypress com Javascript por ser mais familiar e garantir uma automação eficiente no tempo disponível. Essa escolha me possibilitou uma entrega de qualidade, com testes confiáveis e uma organização clara do código.
+
 
 
